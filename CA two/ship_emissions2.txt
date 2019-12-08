@@ -1,0 +1,27 @@
+Fuel Usage and Ship Emissions for 34 Ports in Australia  
+
+Dataset: ship_emissions2.csv
+
+Source: L. Goldsworthy and B. Goldsworthy (2015). "Modelling of Ship
+Engine Exhaust Emissions in Ports and Extensive Coastal Waters Based on
+Terrestrial AIS Data - An Australian Case Study," Environmental
+Modelling & Software, Vol. 63, pp. 45-60.
+
+Description: Ship fuel consumption and emissions for 34 ports in Australia.
+Variables are in tonnes.
+
+Variables:
+Port
+Fuel
+NO_x - oxides of nitrogen
+SO_2 - sulphur dioxide
+PM_10 - fine particulate matter
+PM_2.5 - atmospheric particulate matter
+VOC - Volatile Organic Compounds
+CO - Carbon monoxide
+PAH - Polycyclic aromatic hydrocarbons
+CO_2e - Carbon dioxide
+BerthVisit
+
+
+http://users.stat.ufl.edu/~winner/data/ship_emissions2.csv
